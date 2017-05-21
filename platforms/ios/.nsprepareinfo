@@ -1,7 +1,7 @@
 {
-	"time": "Sat May 20 2017 21:48:15 GMT-0500 (-05)",
+	"time": "Sun May 21 2017 11:16:42 GMT-0500 (-05)",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Sat May 20 2017 21:48:15 GMT-0500 (-05)"
 }

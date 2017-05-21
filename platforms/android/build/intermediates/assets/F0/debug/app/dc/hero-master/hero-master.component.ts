@@ -15,10 +15,5 @@ export class HeroesComponent implements OnInit {
 
     ngOnInit(): void {
         this.heroes = this.heroService.getHeroesList();
-        console.log(this.heroes);
-        console.log(this.heroes.length);
-        for (let i = 0; i < this.heroes.length; i++){
-            console.log(this.heroes[i].name);
-        }
     }
 }

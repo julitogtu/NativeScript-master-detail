@@ -167,3 +167,4 @@ android.animation.Animator.AnimatorListener*_ftns_modules_tns_core_modules_ui_tr
 android.webkit.WebViewClient*_frnal_ts_helpers_l58_c38__WebViewClientImpl*shouldOverrideUrlLoading,onPageStarted,onPageFinished,onReceivedError***
 web_view_common_1.WebViewBase*_frnal_ts_helpers_l58_c38__WebView*createNativeView,initNativeView,resetNativeView,_loadUrl,_loadData,stopLoading,goBack,goForward,reload***
 hero_1.Hero*_frnal_ts_helpers_l58_c38__HeroDetail****
+hero_1.Hero*_frnal_ts_helpers_l58_c38__HeroDetail****

@@ -1,4 +1,4 @@
-#Sat May 20 21:49:27 COT 2017
+#Sun May 21 13:33:36 COT 2017
 base.0=/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

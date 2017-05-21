@@ -11,6 +11,10 @@ refer to http://docs.nativescript.org/ui/theme.
 */
 @import 'nativescript-theme-core/css/core.dark.css';
 
+.page {
+    background-color: #000000;
+}
+
 .container {
     background-color: #000000;
     border-color: #240B3B;
@@ -31,6 +35,13 @@ refer to http://docs.nativescript.org/ui/theme.
     border-radius: 5;
     width: 140;
     height: 100;
+}
+
+.image-profile-detail {
+    background-color: yellow;
+    border-radius: 5;
+    width: 180;
+    height: 120;
 }
 
 .row {
@@ -61,4 +72,26 @@ refer to http://docs.nativescript.org/ui/theme.
 
 .hero-detail {
     align-items: center;
+}
+
+.hero-details-container {
+    border-color: #240B3B;
+    border-bottom-width: 1;
+}
+
+.hero-details-name {
+    font-size: 34;
+    font-weight: bold;
+    color:#40FF00;
+    padding-left: 10;
+    display: block;
+}
+
+.hero-details {
+    color: white;
+    font-size: 16;
+}
+
+.hero-attr {
+    font-weight: bold;
 }

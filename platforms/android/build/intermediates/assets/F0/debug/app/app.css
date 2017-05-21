@@ -9,25 +9,39 @@ In many cases you may want to use the NativeScript core theme instead
 of writing your own CSS rules. For a full list of class names in the theme
 refer to http://docs.nativescript.org/ui/theme.
 */
-@import 'nativescript-theme-core/css/core.light.css';
+@import 'nativescript-theme-core/css/core.dark.css';
+
+.page {
+    background-color: #000000;
+}
 
 .container {
     background-color: #000000;
     border-color: #240B3B;
     border-bottom-width: 1;
-    padding:6;
-    align-items:flex-start;
+    padding:2;
+    align-items: flex-start;
     color:white;
-}
-
-.image-profile {
-    background-color: yellow;
-    border-radius: 5;
 }
 
 .column {
     flex-direction: column;
     flex-wrap: nowrap;
+    align-content: flex-start;
+}
+
+.image-profile {
+    background-color: yellow;
+    border-radius: 5;
+    width: 140;
+    height: 100;
+}
+
+.image-profile-detail {
+    background-color: yellow;
+    border-radius: 5;
+    width: 180;
+    height: 120;
 }
 
 .row {
@@ -36,19 +50,48 @@ refer to http://docs.nativescript.org/ui/theme.
     align-content: flex-start;
 }
 
-.bold {
-    font-size: 16;
+.hero-name {
+    font-size: 18;
     font-weight: bold;
     color:#40FF00;
-}
-
-.regular {
-    font-size: 12;
     padding-left: 10;
+    display: block;
+    height: 42%;
 }
 
 .pad {
     padding-top: 2;
-    padding-bottom:10;
+    padding-bottom: 5;
+}
+
+.hero-description {
+    font-size: 13;
     padding-left: 10;
+    padding-top: 0;
+}
+
+.hero-detail {
+    align-items: center;
+}
+
+.hero-details-container {
+    border-color: #240B3B;
+    border-bottom-width: 1;
+}
+
+.hero-details-name {
+    font-size: 34;
+    font-weight: bold;
+    color:#40FF00;
+    padding-left: 10;
+    display: block;
+}
+
+.hero-details {
+    color: white;
+    font-size: 16;
+}
+
+.hero-attr {
+    font-weight: bold;
 }

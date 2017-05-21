@@ -1,7 +1,29 @@
-<ActionBar title="DC Heroes" class="action-bar">
+<ActionBar title="DC Heroes - {{ hero.name }}" class="action-bar">
 </ActionBar>
 <StackLayout class="page">
-    <FlexboxLayout class="hero-detail">
-        <Image class="" [src]="hero.imageDetail" width="200" height="140"></Image>
-    </FlexboxLayout>
+        <FlexboxLayout class="hero-detail" justifyContent="center">
+            <Image class="image-profile-detail" [src]="hero.image" width="200" height="140"></Image>
+        </FlexboxLayout>
+        <FlexboxLayout class="column hero-container">
+            <FlexboxLayout class="row pad hero-details-container" justifyContent="center">
+                <Label class="hero-details-name" [text]="hero.name"></Label>
+            </FlexboxLayout>
+            <FlexboxLayout class="column hero-details">
+                <FlexBoxLayout class="row">
+                    <Label class="hero-attr" text="Real Name:"></Label>
+                    <Label [text]="hero.realName"></Label>
+                </FlexBoxLayout>
+                <FlexBoxLayout class="row">
+                    <Label class="hero-attr" text="Gender:"></Label>
+                    <Label [text]="hero.gender"></Label>
+                </FlexBoxLayout>
+                <FlexBoxLayout class="row">
+                    <Label class="hero-attr" text="City:"></Label>
+                    <Label [text]="hero.city"></Label>
+                </FlexBoxLayout>
+                <FlexBoxLayout class="row">
+                    <Label textWrap="true" [text]="hero.description"></Label>
+                </FlexBoxLayout>
+            </FlexboxLayout>
+        </FlexboxLayout>
 </StackLayout>

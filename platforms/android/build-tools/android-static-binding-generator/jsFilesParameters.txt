@@ -1,6 +1,7 @@
 /Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/app.module.js
 /Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/app.routing.js
 /Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/dc/hero-master/hero-master.component.js
-/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/dc/models/hero.js
 /Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/dc/models/heroDetail.js
 /Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/dc/services/hero.service.js
+/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/dc/hero-detail/hero-detail-component.js
+/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/src/main/assets/app/dc/hero-detail/hero-detail.component.js
