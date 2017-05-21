@@ -1,0 +1,18 @@
+<ActionBar title="DC Heroes" class="action-bar">
+</ActionBar>
+<ScrollView>
+<StackLayout class="page">
+    <FlexboxLayout class="container" *ngFor="let hero of heroes" [nsRouterLink]="['/hero', hero.id]" pageTransition="slideLeft"> 
+        <Image class="column image-profile" [src]="hero.image"></Image>
+        <FlexboxLayout class="column hero-container">
+            <FlexboxLayout class="row pad" justifyContent="space-between">
+                <Label class="hero-name" [text]="hero.name"></Label>
+            </FlexboxLayout>
+            <FlexboxLayout class="column desce">
+                <Label class="hero-description" textWrap="true" [text]="hero.description"></Label>
+            </FlexboxLayout>
+        </FlexboxLayout>
+        <FlexboxLayout class="row"></FlexboxLayout>
+    </FlexboxLayout>
+</StackLayout>
+</ScrollView>

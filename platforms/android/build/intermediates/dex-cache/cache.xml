@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-25.0.1_447ee25340161467c43ad5994d499572eef3409c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.0.1_c0d631d2d054c28766082729bbfb2671cefd7241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-25.0.1_4c82c56cbb01a710b7ee7d4639ae9711cd074380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/DCMasterDetail/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_e6ec9ce0045e3cfda3f805e7e08d79ca5254aadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.0.1_332460356ae7927306a5ab0ddeb5df14bc5dc739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-25.0.1_c0c79f3a799f0e344f81d09c1905d309e4363bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-25.0.1_0c46e27fcaa746dbd07f9eff9a175bd2224d9e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.0.1_892fb68b9f7e58e64ab04e4d75a0942cc98b95c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-25.0.1_5d7ed4c113e9b1c4652f2d26eb6f76a557bbbca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.0.1_d3ba2c44a4f414f42513fc932faa5dd964f0c2fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.0.1_1059af9ae2ddb400e17ca6140214fc2bdcee5c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.0.1_6dfcc507fc4a9c6305199f1c98c10eae61dfdbfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.0.1_2bda14812e4bd5016f20f4bcca0dc456db769f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.0.1_f812b4d87ba91ce0f61b5efd64a2aecad175bb5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0366b761ae7f79749c685f953a1f9ced2e166de0">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_c680d11777c0ddc70eb919e294386ebed0d80c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.0.1_6bab1c94f39bbd79aae446f465323ce23c753263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.0.1_e8fea9fef7eaeeaba1c46cd9e7a70af897092d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.0.1_7d9b5af7fc3b70124eff27352b9971a45461ce09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.0.1_7b958e523d0797dd1d249e7cb7c15ae0b1dcbd79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.0.1_a9cdee3501da6fec79ecdce305ea706104bdb91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/exploded-aar/DCMasterDetail/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="/Users/DevNinja/Documents/NativeScript/Post/DCMasterDetail/platforms/android/build/intermediates/pre-dexed/F0/debug/DCMasterDetail-runtime-unspecified_2433e08701ed092926983a74089d103c16389b3b.jar" />
+    </item>
+
+</items>
